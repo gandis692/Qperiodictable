@@ -208,4 +208,4 @@ QPeriodicTable is available as a full free version, ensuring that all features a
 Unlock the full potential of chemistry with **QPeriodicTable**! Download now and explore all features included for free!
 
 ---
-**Last updated:** 2026-11-07 01:31:43 UTC
+**Last updated:** 2026-11-07 08:10:18 UTC
